@@ -1,0 +1,28 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "mocka": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunriseKovalevski/rsschool-codejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunriseKovalevski/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/SunriseKovalevski/rsschool-codejam#readme"
+}
